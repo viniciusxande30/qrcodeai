@@ -1,0 +1,337 @@
+@media only screen and (max-width: 1199px){
+    .offer_text{display: none}
+    .home_page_banner_content{height: 455px}
+    br{display: none}
+    .carousel-control-prev{left: 190px}
+    .carousel-control-next{right: 190px}
+    .btn_send_message{padding: 10px; font-size: 12px}
+    .service_right_img:before{transform: rotate(40deg); left: -165px}
+    .service_left_img:before{transform: rotate(-40deg); right: -165px; z-index: -1}
+    .price_content .value_text{padding-left: 30px !important; padding-top: 0 !important;}
+    .price_content .value{margin-bottom: 10px}
+    .width_18{width: 17%}
+    .margin_right_14{margin-right: 22px}
+    .contact_page_banner:before{right: -165px}
+    .btn-primary{padding: 20px 170px}
+    .font_size_48{font-size: 42px}
+    .font_size_30{font-size: 24px}
+    .margin_bottom_60{margin-bottom: 30px}
+    .btn_banner01{padding: 15px 30px}
+    .padding_bottom_100{padding-bottom: 80px}
+    .padding_top_100{padding-top: 80px}
+    .padding_top_170{padding-top: 100px}
+    .btn_talk_professionals{padding: 15px 30px}
+    .padding_bottom_120{padding-bottom: 80px}
+    .font_size_40{font-size: 30px}
+
+}
+@media only screen and (max-width: 991px) {
+    .navbar-toggler{background-color: #fff; border: 1px solid #fff; padding: 3px 8px}
+    .navbar-toggler:focus{outline: none}
+    h1{font-size: 24px !important;}
+    .banner_text p{font-size: 18px !important; margin-bottom: 20px}
+    .btn_banner01{padding: 15px 25px}
+    .btn_banner02{padding: 15px 30px}
+    .btn_banner01, .btn_banner02{font-size: 14px}
+    .banner_search_box{padding: 0}
+    .search_area{width: 70%}
+    .padding_top_100{padding-top: 60px}
+    .padding_bottom_100{padding-bottom: 60px}
+    .font_size_30{font-size: 24px}
+    .outer_hosting_plan_box.active{margin-top: 0}
+    .outer_hosting_plan_box{margin-bottom: 15px}
+    .font_size_20{font-size: 16px}
+    .btn_talk_professionals{padding: 15px 30px}
+    .inner_hosting_services{margin-top: 30px}
+    .font_size_18{font-size: 14px}
+    .btn_get_started{padding: 10px 25px}
+    .footer_pages_link{display: none}
+    .footer_logo{text-align: center; padding: 0 150px}
+    .top_navigation{padding: 15px; position: absolute; z-index: 9; width: 100%}
+    .navigation .menubar li>a{padding: 5px 20px !important; font-size: 14px; color: #1699e5}
+    .menu_content br{display: inherit}
+    .navigation .dropdown_company:before{display: none}
+    .navigation .dropdown_company{width: 100%; top: 0; left: 0; background-color: transparent; border-radius: 0; border: none; box-shadow: none; padding: 5px 10px}
+    .rounded_center_img, .service_left_img:before, .service_right_img:before, .service_center_img:before{display: none}
+    .margin_right_60{margin-right: 0}
+    .margin_left_60{margin-left: 0}
+    .padding_lr_65{padding: 0}
+    .price_rangetxt{padding-left: 30px}
+    .font_size_22{font-size: 16px}
+    .padding_top_20{padding-top: 10px}
+    .vps_server_feature li{padding: 15px 20px}
+    .vps_server_feature li:before{left: 5px; top: 20px}
+    .btn-link {white-space: normal}
+    .home_page_banner:before, .shared_page_banner:before, .dedicated_page_banner:before, .vps_page_banner:before, .domain_page_banner:before, .about_page_banner:before, .network_page_banner:before, .blog_page_banner:before{right: -80px}
+    .domain_listing figure{padding: 9px 10px}
+    .domain_price{padding: 10px 5px}
+    .width_18{width: 25%}
+    .margin_right_14{margin-right: 50px}
+    .domain_box{margin-bottom: 20px}
+    .navigation .dropdown_menu, .navigation .dropdown_submenu, .navigation .dropdown_company{top: 0; left: 0; background-color: transparent; box-shadow: none; border-radius: 0; border: none; padding: 5px 10px; width: 100%}
+    .navigation .dropdown_menu, .navigation .dropdown_submenu, .navigation .dropdown_company{background-color: rgba(0,130,213,.1);
+    border: none;
+    box-shadow: none;
+    padding: 15px 20px;
+    margin: 10px 0;}
+    .navigation .dropdown_menu:before, div.dropdown_submenu:before{display: none}
+    div.dropdown_menu a, .navigation .dropdown_company a, div.dropdown_submenu a{color: #1699e5; padding: 5px !important; font-size: 13px; margin-bottom: 0}
+    .btn_our_services{padding: 10px 25px}
+    .home_page_banner p, .shared_page_banner p, .dedicated_page_banner p, .vps_page_banner p, .domain_page_banner p, .about_page_banner p, .network_page_banner p, .contact_page_banner p, .blog_page_banner p{font-size: 16px}
+    .comparison_price_table tbody td{font-size: 16px}
+    .btn_price_plan{padding: 8px 15px; margin-bottom: 30px}
+    .price_tag{font-size: 24px !important;}
+    .padding_tb_40{padding: 13px 0}
+    .promotion_price_box{width: 100%; margin-left: 0; margin-top: 10px}
+    .home_page_banner:before, .shared_page_banner:before, .dedicated_page_banner:before, .vps_page_banner:before, .domain_page_banner:before, .about_page_banner:before, .network_page_banner:before, .blog_page_banner:before{right: -180px}
+
+
+    /*Toggle Menu*/
+    .cmn-toggle-switch {
+        display: block;
+        position: relative;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+        width: 35px;
+        height: 35px;
+        font-size: 0;
+        text-indent: -9999px;
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+        box-shadow: none;
+        border-radius: none;
+        border: none;
+        cursor: pointer;
+        -webkit-transition: background 0.3s;
+        transition: background 0.3s;
+    }
+
+    .cmn-toggle-switch:focus {
+        outline: none;
+    }
+
+
+    .cmn-toggle-switch span {
+        display: block;
+        position: absolute;
+        top: 17px;
+        left: 9px;
+        right: 18px;
+        width: 50%;
+        height: 2px;
+        background: #fff
+    }
+
+    .cmn-toggle-switch span::before,
+    .cmn-toggle-switch span::after {
+        position: absolute;
+        display: block;
+        left: 0;
+        width: 100%;
+        height: 2px;
+        background-color: #fff;
+        content: "";
+    }
+
+    .cmn-toggle-switch span::before {
+        top: -7px;
+    }
+
+    .cmn-toggle-switch span::after {
+        bottom: -7px;
+    }
+
+
+
+    .cmn-toggle-switch__htx {
+        background-color: transparent
+    }
+
+    .cmn-toggle-switch__htx span {
+        -webkit-transition: background 0 0.3s;
+        transition: background 0 0.3s;
+    }
+
+    .cmn-toggle-switch__htx span::before,
+    .cmn-toggle-switch__htx span::after {
+        -webkit-transition-duration: 0.3s, 0.3s;
+        transition-duration: 0.3s, 0.3s;
+        -webkit-transition-delay: 0.3s, 0;
+        transition-delay: 0.3s, 0;
+    }
+
+    .cmn-toggle-switch__htx span::before {
+        -webkit-transition-property: top, -webkit-transform;
+        transition-property: top, transform;
+    }
+
+    .cmn-toggle-switch__htx span::after {
+        -webkit-transition-property: bottom, -webkit-transform;
+        transition-property: bottom, transform;
+    }
+
+    /* active state, i.e. menu open */
+    .cmn-toggle-switch__htx.active {
+        background-color: transparent;
+    }
+
+    .cmn-toggle-switch__htx.active span {
+        background: none;
+    }
+
+    .cmn-toggle-switch__htx.active span::before {
+        top: 0;
+        -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+        transform: rotate(45deg);
+    }
+
+    .cmn-toggle-switch__htx.active span::after {
+        bottom: 0;
+        -webkit-transform: rotate(-45deg);
+        -ms-transform: rotate(-45deg);
+        transform: rotate(-45deg);
+    }
+
+    .cmn-toggle-switch__htx.active span::before,
+    .cmn-toggle-switch__htx.active span::after {
+        -webkit-transition-delay: 0, 0.3s;
+        transition-delay: 0, 0.3s;
+    }
+
+    .navigation{    width: 30%;
+        position: absolute;
+        background-color: rgba(255, 255, 255,.98);
+        right: 0px;
+        top: 100%; padding: 15px 0
+    }
+    .dropdown-toggle::after{position: absolute; right: 20px; top: 15px}
+
+}
+@media only screen and (max-width: 767px){
+    .home_page_banner:before, .shared_page_banner:before, .dedicated_page_banner:before, .vps_page_banner:before, .domain_page_banner:before, .about_page_banner:before, .network_page_banner:before, .contact_page_banner:before, .blog_page_banner:before{display: none}
+    .home_page_banner p, .shared_page_banner p, .dedicated_page_banner p, .vps_page_banner p, .domain_page_banner p, .about_page_banner p, .network_page_banner p, .contact_page_banner p, .blog_page_banner p{font-size: 14px}
+    .home_page_banner_content{height: 255px}
+    .padding_top_100{padding-top: 30px}
+    .padding_bottom_100{padding-bottom: 30px}
+    .font_size_30{font-size: 20px}
+    .domain_listing{display: none}
+    .btn_submit{width: 100%; display: inline-block; margin-top: 20px}
+    .search_area{width: 100%; height: 50px}
+    .banner_search_box .text_field{height: 100%}
+    .bg_talk_with_professionals{background-position: left; text-align: center}
+    .padding_left_50{padding-left: 15px; text-align: center !important;}
+    .line_height_40{line-height: 26px}
+    .line_height_30{line-height: 24px}
+    .font_size_40{font-size: 24px}
+    .get_started_section{text-align: center}
+    .get_started_section div.pull-left{margin-bottom: 20px}
+    .get_started_section div.pull-right{float: none}
+    .footer_logo{padding: 0 15px}
+    .slide_text{padding-top: 120px; padding-bottom: 20px}
+    .order_setup_box{margin-bottom: 20px}
+    .inner_comparing_price_box{display: none}
+    .middle_box01, .middle_box02, .middle_box03{width: 36%}
+    .btn_comparision_plan{padding: 8px 5px; font-size: 12px}
+    .already_website_box{margin-bottom: 20px}
+    .services_box_img, .services_box_img02{margin:  0 auto; margin-bottom: 20px}
+    .hosting_services_box{text-align: center !important;}
+    .smart_features{padding: 0 15px; margin-bottom: 20px}
+    .padding_top_30{padding-top: 15px}
+    .st-head-row{background-color: #1699e5; color: #fff}
+    .btn-link {white-space: normal; font-size: 14px}
+    .card-header{padding: 12px 10px}
+    .all_feature_box{text-align: center; margin-bottom: 20px}
+    .feature_img{margin: auto; margin-bottom: 20px}
+    .price_rangetxt{padding-left: 0}
+    .border_right{border-right: none}
+    .vps_server_feature li:before{display: none}
+    .margin_right_14{margin-right: 0}
+    .width_18{width: 44%}
+    .domain_box{margin-right: 14px; margin-left: 14px}
+    .btn-primary{padding: 20px 100px}
+    .partner_images figure{text-align: center}
+    .navigation .menubar li>a{padding: 5px 20px !important; font-size: 14px}
+    .banner_text{padding-top: 70px; text-align: center}
+    .padding_top_170{padding-top: 50px}
+    .padding_top_60{padding-top: 30px}
+    .padding_bottom_60{padding-bottom: 30px}
+    .btn_banner01, .btn_banner02{padding: 10px 15px; min-width: 140px}
+    .banner_search_box .search_btn{padding: 12px 20px !important;}
+    .hosting_plan_box h6{font-size: 20px}
+    .testimonial_box{padding: 25px}
+    .margin_bottom_box{margin-bottom: 20px}
+    .tlds_table tbody tr td{font-size: 16px}
+    .vps_btn{padding: 0 50px}
+    .image_holder{width: 80px; height: 80px}
+    .image_holder img{width: 50%}
+    .price_content:before{border-top: 50px solid #1699e5; left: 30px; top: 40px}
+    .price_content .value_text, .price_content .value{font-size: 14px}
+    .border_bottom{border-bottom: none}
+    .divider_node:before{display: none}
+    .margin_box{margin-bottom: 30px}
+    .comparison_price_table{margin-top: 0}
+    .responsive_list{padding-bottom: 0; position: absolute; top: -60px; width: 100%}
+    .padding_bottom_200{padding-bottom: 100px}
+    .responsive_list li.active button:focus{outline: none}
+    .comparison_price_table tbody td:first-child{font-size: 16px}
+    .price_content{padding-top: 50px}
+    .custom_padding{padding-left: 20px}
+    .price_content .value_text{padding-left: 20px !important; padding-top: 15px !important;}
+    .margin_bottom{margin-bottom: 0}
+    .banner_search_box{margin-bottom: 0}
+    .padding_bottom_120{padding-bottom: 30px}
+    .home_page_banner_content{height: 300px}
+    .navbar-toggler{padding: 0 3px}
+    div.pull-left{float: none}
+    .home_page_banner, .shared_page_banner, .dedicated_page_banner, .vps_page_banner, .domain_page_banner, .about_page_banner, .contact_page_banner, .blog_page_banner, .network_page_banner{text-align: center}
+    .margin_bottom_100{margin-bottom: 40px}
+    a.logo img{width: 125px}
+}
+@media only screen and (max-width: 480px){
+    a.logo img{width: 65%}
+    .navbar-toggler{padding: 3px 5px}
+    .mobile_margin{margin-bottom: 30px}
+    .bg_talk_with_professionals{text-align: center !important;}
+    .btn_talk_professionals{padding: 10px 15px; font-size: 12px}
+    .btn_our_services{padding: 6px 18px}
+    .btn_get_started{padding: 7px 15px}
+    .carousel-indicators{bottom: 20px}
+    .inner_counter, .inner_counter_blue{width: 70px; height: 70px; margin-left: 20px}
+    .footer_logo figure img{width: 30%}
+    div.pull-left{float: none}
+    .inner_comparing_price li{font-size: 12px; line-height: 36px}
+    .btn_comparision_plan{font-size: 8px}
+    .need_power, .already_website_box{padding: 20px}
+    .margin_top_60{margin-top: 20px}
+    .margin_top_80{margin-top: 30px}
+    .tlds_table tbody tr td{font-size: 14px}
+    .price_content{padding-top: 20px}
+    .discounted_price{font-size: 20px; line-height: 30px}
+    .coupon_code{font-size: 14px; line-height: 18px}
+    .cutted_price{font-size: 12px}
+    .price_txt .numeric1{font-size: 24px}
+    .price_txt{font-size: 14px}
+    .vps_btn{padding: 0 15px; font-size: 12px; line-height: 28px}
+    .padding_bottom_120{padding-bottom: 40px}
+    .comparison_price_table tbody td:first-child, .comparison_price_table tbody td{font-size: 14px; line-height: 36px}
+    .custom_padding:before{display: none}
+    .padding_tb_40{padding: 15px 0}
+    .promotion_area{background-color: transparent}
+    .promotion_price_box{width: 100%; margin-left: 0}
+    .home_page_banner_content{height: 255px}
+    .navbar-toggler{padding: 0 2px}
+    .line_height_48{line-height: 24px}
+    .domain_box{margin-right: 5px}
+    a.logo img{width: 125px}
+    .navigation{width: 40%}
+}
+
+@media only screen and (max-width: 425px){
+    .navigation{width: 50%}
+}
+@media only screen and (max-width: 375px){
+    .btn_comparision_plan{font-size: 10px}
+}
