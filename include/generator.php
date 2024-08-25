@@ -12,6 +12,7 @@
                 <form role="form" class="qrcdr-form needs-validationNO w-100" novalidate>
                     <input type="submit" class="d-none">
                     <input type="hidden" name="section" id="getsec" value="<?php echo $getsection; ?>">
+                    
                     <?php
                     /**
                      * QR CODE DATA

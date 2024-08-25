@@ -1,17 +1,5 @@
 <?php
-/**
- * QRcdr - php QR Code generator
- * ajax/png.php
- *
- * PHP version 5.4+
- *
- * @category  PHP
- * @package   QRcdr
- * @author    Nicola Franchini <info@veno.it>
- * @copyright 2015-2020 Nicola Franchini
- * @license   item sold on codecanyon https://codecanyon.net/item/qrcdr-responsive-qr-code-generator/9226839
- * @link      http://veno.es/qrcdr/
- */
+
 if (!isset($_SERVER['HTTP_X_REQUESTED_WITH']) 
     || (isset($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) !== 'xmlhttprequest')
 ) {

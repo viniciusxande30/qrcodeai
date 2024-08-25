@@ -12,6 +12,7 @@
 			<a class="nav-link" href="#">Link 2</a>
 		</li>
 -->
+			<li style="margin-top:5px; margin-right:15px;"><a href="login.php"  style="color:white;text-decoration:none;font-weight:bolder">Área de Login</a></li>
 			<?php echo qrcdr()->langMenu('menu'); ?>
 		</ul>
 	</div>
