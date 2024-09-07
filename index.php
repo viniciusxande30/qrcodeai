@@ -91,5 +91,39 @@ require dirname(__FILE__).'/'.$relative.'include/head.php';
             include dirname(__FILE__).'/'.$relative.'template/footer.php';
         }
         ?>
+
+<script>
+    // Seleciona o botão usando a classe
+    var button = document.querySelector(".btn.btn-lg.btn-block.btn-primary.ellipsis.generate_qrcode.rounded-pill");
+
+    // Verifica se o botão foi encontrado
+    if (button) {
+        // Cria um novo elemento 'a' (link)
+        var link = document.createElement("a");
+
+        // Define o href para o login
+        link.href = "register.php";
+
+        // Adiciona as classes do botão original ao link
+        link.className = button.className;
+
+        // Adiciona o conteúdo HTML do botão original ao link
+        link.innerHTML = button.innerHTML;
+
+        // Substitui o botão pelo link no DOM
+        button.parentNode.replaceChild(link, button);
+    }
+</script>
+
+<script>
+    // Seleciona o botão pelo ID
+    var button = document.getElementById("save_qrcode");
+
+    // Verifica se o botão foi encontrado
+    if (button) {
+        // Remove o botão do DOM
+        button.parentNode.removeChild(button);
+    }
+</script>
     </body>
 </html>
